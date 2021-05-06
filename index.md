@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Linh Nguyen's Personal Website
 
 You can use the [editor on GitHub](https://github.com/dieulinh312/linhnguyenecon.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
